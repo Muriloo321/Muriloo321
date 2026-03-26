@@ -122,6 +122,12 @@ My goal is to transform raw data into meaningful insights — combining technica
   <a href="https://github.com/Muriloo321">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/murilo-moreno-almeida-da-silva-ornelas-54885b29b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/murilomoreno">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
