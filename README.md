@@ -48,31 +48,35 @@
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Muriloo321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Muriloo321&show_icons=true&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Muriloo321&show_icons=true&theme=tokyonight&hide_border=true" />
-</picture>
+<div align="center">
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Muriloo321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Muriloo321&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Muriloo321&show_icons=true&theme=tokyonight&hide_border=true" />
+  </picture>
+
+</div>
 
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
       <picture>
         <source
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=Muriloo321&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7"
+          srcset="https://streak-stats.demolab.com?user=Muriloo321&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=Muriloo321&theme=default&hide_border=true"
+          srcset="https://streak-stats.demolab.com?user=Muriloo321&theme=default&hide_border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muriloo321&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Muriloo321&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </picture>
     </td>
     <td width="50%" align="center">
